@@ -33,7 +33,7 @@ The goal of this project is to identify optimal locations for opening popular re
 
 
 ## Chennai Map with Clusters
-![image](https://github.com/Sanky18/Optimal-Location-Selection-for-a-New-Restaurant-in-Chennai/assets/119156783/643aa87d-2d7d-44c9-8e73-18a2778065da)
+![image](https://github.com/Tejaspatil06/Optimal-Location-Selection-for-a-New-Restaurant/blob/main/Results/Final_Clusters.png)
 
 
 The above image shows the map of Chennai with clusters marked using different colors. Each cluster represents a group of neighborhoods with similar characteristics in terms of restaurant density. The clusters provide valuable insights into the distribution of restaurant opportunities in Chennai.
